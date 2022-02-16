@@ -1,5 +1,5 @@
 ---
-title: "Welcome to my blog"
+Blog of Life
 ---
 
-I'm glad you are here. I plan to talk about ...
+Where do we go from here? A ton of problems and crises are currently on our shoulders as humanity. Let´s focus on solutions!
