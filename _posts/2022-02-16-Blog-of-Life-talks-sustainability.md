@@ -1,2 +1,2 @@
-Blog of Life talks sustainability
-20220216
+"Blog of Life talks sustainability"
+2022-02-16
