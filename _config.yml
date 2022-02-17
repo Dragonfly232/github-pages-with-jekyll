@@ -1,13 +1,12 @@
 title: Blog of Life
 author: Ronjia Nellemann
 email: goldami@mailo.com
-description: > # this means to ignore newlines until "baseurl:"
-  Write an awesome description for your new site here. You can edit this
-  line in _config.yml. It will appear in your document head meta (for
-  Google search results) and in your feed.xml site description.
+description: Blog of life is discussing current crises and and obstacles towards a better future.
+Every week, I chose a subject that has a great impact on life and how we can adapt new ideas and solutions, 
+to manage our lives in a way that supports planet earth, rather than the opposite.
 
 # social links
-twitter_username: your-twitter-handle # DO NOT include the @ character, or else the build will fail!
+
 github_username:  dragonfly232
 
 show_excerpts: true # set to false to remove excerpts on the homepage
